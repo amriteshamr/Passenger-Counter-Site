@@ -50,3 +50,13 @@ button {
     border: 4px solid white;
     border-radius: 8px;
 }
+
+#increment-btn:hover{
+    background: whitesmoke;
+    color: darkgreen;
+}
+
+#save-btn:hover{
+    background: whitesmoke;
+    color: green;
+}
